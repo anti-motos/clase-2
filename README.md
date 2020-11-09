@@ -11,6 +11,12 @@
 4. El caso de Perú: ejemplo de conservación patrimonial
 5. Conclusiones
 
+## INFOGRAFIA MAQUETA
+   <img src="img/maqueta.jpg">
+   
+   
+## INFORMACIÓN 
+
 ### El impacto del Dákar en el patrimonio material del desierto de Atacama.
 
 #### Contexto
