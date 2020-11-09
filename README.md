@@ -11,9 +11,11 @@
 4. El caso de Perú: ejemplo de conservación patrimonial
 5. Conclusiones
 
-## INFOGRAFIA MAQUETA
+## INFOGRAFÍA MAQUETA
    <img src="img/maqueta.jpg">
+   
 ### Infografías
+
 1. Diagrama que muestra la información de cuántos son los concursantes y sus países. Según el tamaño del circulo grande y el tamaño de los iconos de cada vehículo, el usuario puede entender de manera fácil y rápida cuáles son los países con más presencia en la carrera y los ganadores de esta.
 2. Diagrama u infografia que muestra como cada vehículo genera un impacto en el medio ambiente, pero además como afecta el volumen total de vehículos que abarcan la carrera, ya que si bien las motos, por ejemplo, tienen menos impacto, su volumen es mayor, por lo que el impacto final en la carrera es más grande.
 3. GIF que muestra y comparar las dos rutas desde 1978 hasta hoy. Se pretende entregar contexto, en diferentes cuadros de gif, sobre las rutas de la carrera y cómo se abarca en los diferentes países.
@@ -26,6 +28,7 @@
 10. GIF que muestra el daño que se produce en los geoglifos debido a las huellas de vehículos. Mediante los diferentes cuadros del GIF se busca mostrar como el geoglifo, debido a su antigüedad y años que tiene, se va desapareciendo de la tierra, mientras que las huellas de los vehículos se mantienen debido a las características del desierto.
 
 ### Links
+
 https://pueblosoriginarios.com/sur/andina/atacama/geoglifos.html#:~:text=Los%20geoglifos%20de%20Atacama&text=Al%20norte%20de%20Chile%2C%20en,los%20cerros%2C%20conocidas%20como%20geoglifos.&text=Un%20tercer%20grupo%20de%20geoglifos,mixto%20de%20extracci%C3%B3n%20y%20adici%C3%B3n.   
    
 ## INFORMACIÓN 
