@@ -10,6 +10,7 @@
 El Dakar es la carrera rally raid (de campo, sin ruta) más grande del mundo, caracterizada por su condición de aventura extrema y la necesidad de habilidades de orientación y navegación. Dura aproximadamente entre 10 a 15 días y se desarrolla entre diciembre y enero de cada año y participan alrededor de 500 personas de más de 60 nacionalidades, que compiten en diferentes categorías según sus vehículos; motos, autos, quad y camiones.
 
 *infografía 1: sobre los concursantes, su nacionalidad y tipo de vehículo.*
+
 *infografía 2: sobre las diferencias en los vehículos y su impacto.* 
 
 Esta carrera partió desarrollándose desde Europa a África, el año 1978, después de que el piloto francés Thierry Sabine se perdiera en el norte de África. Se desarrolló por décadas entre Europa y África, partiendo y terminando en distintas ciudades de estos continentes. Para el 2009 se cambió de lugar por problemas de [ataques terroristas](https://www.biobiochile.cl/noticias/2012/12/30/por-que-el-dakar-dejo-africa-y-se-vino-a-correr-a-sudamerica.shtml) tras el surgimiento de Al Qaeda. Se desarrolló en sudámerica desde el 2009 hasta el 2019, y pasó por Chile, Argentina, Perú y Bolivia. Des este se desarrolla en Arabia Saudita.
