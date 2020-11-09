@@ -1,5 +1,5 @@
 # clase-2: avances
-*En este documento se realizará un desarrollo de los contenidos y temas a tratar en nuestra página web. Escogimos como tema de trabajo el impacto del [Rally Dakar](https://www.dakar.com/es/universo-dakar/lacarrera) en zonas naturales y patrimoniales del país. *
+*En este documento se realizará un desarrollo de los contenidos y temas a tratar en nuestra página web. Escogimos como tema de trabajo el impacto del [Rally Dakar](https://www.dakar.com/es/universo-dakar/lacarrera) en zonas naturales y patrimoniales del país.*
 
 <img src="https://www.fundaciondesiertoatacama.cl/wp-content/uploads/2016/10/12-chug-chug-este-1.jpg" class="img-fluid" />
 
