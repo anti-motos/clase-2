@@ -10,7 +10,7 @@
 El Dakar es la carrera rally raid (de campo, sin ruta) más grande del mundo, caracterizada por su condición de aventura extrema y la necesidad de habilidades de orientación y navegación. Dura aproximadamente entre 10 a 15 días y se desarrolla entre diciembre y enero de cada año y participan alrededor de 500 personas de más de 60 nacionalidades, que compiten en diferentes categorías según sus vehículos; motos, autos, quad y camiones.
 
 *infografía 1: sobre los concursantes, su nacionalidad y tipo de vehículo.*
-      <img src="img/info.jpg">
+      <img src="img/info1.jpg">
 
 *infografía 2: sobre las diferencias en los vehículos y su impacto.* 
 
