@@ -12,7 +12,7 @@ El Dakar es la carrera rally raid (de campo, sin ruta) más grande del mundo, ca
 *infografía 1: sobre los concursantes, su nacionalidad y tipo de vehículo.*
       <img src="img/info1.jpg">
 
-#######*Proporción de muertos y heridos al total de participantes (más rojos son muertos y los menos rojos son heridos)*
+*Proporción de muertos y heridos al total de participantes (más rojos son muertos y los menos rojos son heridos)*
 
 *infografía 2: sobre las diferencias en los vehículos y su impacto.* 
       <img src="img/info2.jpg">
