@@ -13,10 +13,12 @@ El Dakar es la carrera rally raid (de campo, sin ruta) más grande del mundo, ca
       <img src="img/info1.jpg">
 
 *infografía 2: sobre las diferencias en los vehículos y su impacto.* 
+      <img src="img/info2.jpg">
 
 Esta carrera partió desarrollándose desde Europa a África, el año 1978, después de que el piloto francés Thierry Sabine se perdiera en el norte de África. Se desarrolló por décadas entre Europa y África, partiendo y terminando en distintas ciudades de estos continentes. Para el 2009 se cambió de lugar por problemas de [ataques terroristas](https://www.biobiochile.cl/noticias/2012/12/30/por-que-el-dakar-dejo-africa-y-se-vino-a-correr-a-sudamerica.shtml) tras el surgimiento de Al Qaeda. Se desarrolló en sudámerica desde el 2009 hasta el 2019, y pasó por Chile, Argentina, Perú y Bolivia. Des este se desarrolla en Arabia Saudita.
 
 *infografía 3: comparación de rutas africa-europa y sudamérica (quizás también con las nuevas de Arabia Saudita).*
+      <img src="img/info3.jpg">
 
 ### Impacto
 #### Beneficios y desventajas del Dakar
@@ -25,12 +27,14 @@ El rally Dakar es una de las carreras más populares y vistas, siendo transmitid
 - La carrera atrae muchos espectadores presenciales, lo que estimula el consumo local en alojamiento, comercio, combustible y otros servicios, siendo una activación importante en la economía de las regiones por donde pasa la ruta.
 
 *infografía 4: impacto positivo en la economía, mostrando cifras*
+      <img src="img/info4.jpg">
 
 - Por otra parte, el impacto mediático y la transmición del evento, muestran el patrimonio natural y cultural de las rutas, promoviendo el turismo.
 
 - Esta es muy peligrosa, pone en peligro la vida de los partipantes, pero también de los espectadores que se exponen estando en las rutas por donde pasan los vehículos. Desde sus comienzos hasta el 2016 han fallecido [65 personas](https://www.lainformacion.com/deporte/la-cifra-de-muertos-en-el-dakar-se-eleva-hasta-65-con-nueve-ninos-entre-ellos_u54iBWqIKhV1CbGTQlhwP5/) en este evento.
 
 *infografía 5: numero de accidentados y muertes en la historia del dakar*
+      <img src="img/info5.jpg">
 
 - La carrera se desarrolla sin una ruta específica, sino que a campo travieso pasando por ciertos puntos específicos para completar la carrera. Estos significa que los participantes generan un impacto en los recorridos que realizan afectando los recursos naturales.
 
@@ -44,8 +48,11 @@ En Chile, las rutas han afectado zonas donde se encuentra patrimonio natural y c
 - Que ocurre con el patrimonio a nivel nacional (tenemos abundante patrimonio cultural y natural (por qué; aridez del desierto lo protege), cuál es la perspectiva oficial nacional con respecto a la conservación patrimonial).
 
 *Infografía 6: Mostrar el tipo de patrimonio en Chile; tipos de sitios o tipo de patrimonio (material-inmaterial)*
+      <img src="img/info6.jpg">
 *Infografía 7: mostrar pq hay tanto patrimonio en el desierto, y por lo tanto, por qué resguardarlo*
+      <img src="img/info7.jpg">
 *Infografía 8: Mostrar las rutas con un mapa que tambien incorpora las zonas de interés patrimonial*
+      <img src="img/info8.jpg">
 
 
 Consecuencias "reales":
@@ -57,6 +64,7 @@ Consecuencias "reales":
 #### Ejemplo de cómo hacerlo bien
 
 *Infografía 9: Mostrar las rutas con un mapa que tambien incorpora las zonas de interés patrimonial*
+      <img src="img/info9.jpg">
 
 En perú tomaron las precauciones necesarias para salvaguardar el patrimonio cultural y natural de las zonas por donde pasaban las rutas, lo que permitió un desarrollo que no afectó el patrimonio nacional, mostrar un mapa con las rutas y los puntos de interés patrimonial* —
 
@@ -66,3 +74,4 @@ En perú tomaron las precauciones necesarias para salvaguardar el patrimonio cul
 Creemos que es importante usar el ejemplo del dakar y demostrar cómo los intereses económicos están mas protegidos en la constitución que el patrimonio cultural y natural; para la nueva constitución es necesario incorporar el cuidado de este patrimonio
  
 *infografía 10: comparar el impacto de geoglifos ancestrales vs los geoglifos de ruedas*
+      <img src="img/info10.jpg">
