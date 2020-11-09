@@ -11,15 +11,20 @@ El Dakar es la carrera rally raid (de campo, sin ruta) más grande del mundo, ca
 
 *infografía 1: sobre los concursantes, su nacionalidad y tipo de vehículo.*
       <img src="img/info1.jpg">
-*Proporción de muertos y heridos al total de participantes (más rojos son muertos y los menos rojos son heridos)*
+      
+ Diagrama que muestra la información de cuantos son los corcunsantes y sus paises. Según el tamaño del circulo grande y el tamaño de los iconos de cada vehiculo, el usuario puede entender de manera fácil y rápida cuáles son los países con más presencia en la carrera y los ganadores de esta.
 
 *infografía 2: sobre las diferencias en los vehículos y su impacto.* 
       <img src="img/info2.jpg">
+     
+Diagrama u infografia que muestra como cada vehiculo genera un impacto en el medio ambiente, pero además como afecta el volumen total de vehiculos que abarcan la carrera, ya que si bien las motos, por ejemplo, tienen menos impacto, su volumen es mayor, por lo que el impacto final en la carrera es más grande.
 
 Esta carrera partió desarrollándose desde Europa a África, el año 1978, después de que el piloto francés Thierry Sabine se perdiera en el norte de África. Se desarrolló por décadas entre Europa y África, partiendo y terminando en distintas ciudades de estos continentes. Para el 2009 se cambió de lugar por problemas de [ataques terroristas](https://www.biobiochile.cl/noticias/2012/12/30/por-que-el-dakar-dejo-africa-y-se-vino-a-correr-a-sudamerica.shtml) tras el surgimiento de Al Qaeda. Se desarrolló en sudámerica desde el 2009 hasta el 2019, y pasó por Chile, Argentina, Perú y Bolivia. Des este se desarrolla en Arabia Saudita.
 
 *infografía 3: comparación de rutas africa-europa y sudamérica (quizás también con las nuevas de Arabia Saudita).*
       <img src="img/info3.jpg">
+
+GIF que muestra y comparar las dos rutas desde 1978 hasta hoy. Se pretende entregar contexto, en diferenctes cuadros de gif, sobre las rutas de la carrera y como se abarca en los diferentes paises. 
 
 ### Impacto
 #### Beneficios y desventajas del Dakar
@@ -29,6 +34,8 @@ El rally Dakar es una de las carreras más populares y vistas, siendo transmitid
 
 *infografía 4: impacto positivo en la economía, mostrando cifras*
       <img src="img/info4.jpg">
+    
+Gráfico que muestra el impacto del Dakar en la economía, específicamente en el turismo de la zona. Mediante las líneas punteadas se indican los puntos clave en donde la economía tuvo un progreso debido a la actividad turistica en la zona. 
 
 - Por otra parte, el impacto mediático y la transmición del evento, muestran el patrimonio natural y cultural de las rutas, promoviendo el turismo.
 
@@ -36,6 +43,8 @@ El rally Dakar es una de las carreras más populares y vistas, siendo transmitid
 
 *infografía 5: numero de accidentados y muertes en la historia del dakar*
       <img src="img/info5.jpg">
+      
+ Esquema o infografía que muestra la cantidad de fallecidos en las carreras, haciendo la diferencia mediante los colores entre los concursantes, accidentados y muertos. Asi se puede entender el riesgo que conllevan las carreras. 
 
 - La carrera se desarrolla sin una ruta específica, sino que a campo travieso pasando por ciertos puntos específicos para completar la carrera. Estos significa que los participantes generan un impacto en los recorridos que realizan afectando los recursos naturales.
 
@@ -50,10 +59,18 @@ En Chile, las rutas han afectado zonas donde se encuentra patrimonio natural y c
 
 *Infografía 6: Mostrar el tipo de patrimonio en Chile; tipos de sitios o tipo de patrimonio (material-inmaterial)*
       <img src="img/info6.jpg">
+      
+ Gráfico que muestra las tipologias de tipos de patrimonios en Chile para así dar un contexto sobre como funciona o se clasifica el patrimonio en nuestro país. 
+ 
 *Infografía 7: mostrar pq hay tanto patrimonio en el desierto, y por lo tanto, por qué resguardarlo*
       <img src="img/info7.jpg">
+      
+ Esquema o diagrama que mediante los puntos de colores nos índica los monumentos patrimoniales uqe existen en el país. Se destaca en la zona norte (una de las más afectadas por el Dakar) como una de las zonas con más elementos patrimoniales del país. 
+ 
 *Infografía 8: Mostrar las rutas con un mapa que tambien incorpora las zonas de interés patrimonial*
       <img src="img/info8.jpg">
+      
+A partir del esquema anterior, se incluye la ruta de la carrera para poder entender que esta pasa por encima u entremedio de los elementos patrimoniales ubicados en la zona. 
 
 
 Consecuencias "reales":
@@ -66,6 +83,8 @@ Consecuencias "reales":
 
 *Infografía 9: Mostrar las rutas con un mapa que tambien incorpora las zonas de interés patrimonial*
       <img src="img/info9.jpg">
+      
+ Esquema que muestra la ruta de la carrera realizada en Perú y como ésta evita o esquiva  o incorporta adecuadamentelos elementos o zonas de interés patrimonial que se encuentran en la zona, siendo un ejemplo ya que evita el daño de estas zonas.  
 
 En perú tomaron las precauciones necesarias para salvaguardar el patrimonio cultural y natural de las zonas por donde pasaban las rutas, lo que permitió un desarrollo que no afectó el patrimonio nacional, mostrar un mapa con las rutas y los puntos de interés patrimonial* —
 
@@ -76,3 +95,5 @@ Creemos que es importante usar el ejemplo del dakar y demostrar cómo los intere
  
 *infografía 10: comparar el impacto de geoglifos ancestrales vs los geoglifos de ruedas*
       <img src="img/info10.jpg">
+      
+ GIF que muestra el daño que se produce en los geoglifos debido a las huellas de vehiculos. Mediante los diferentes cuadros del GIF se busca mostrar como el geoglifo, debido a su antiguedad y años que tiene, se va desapareciendo de la tierra, mientras que las huellas de los vehiculos se mantienen debido a las caracteristicas del desierto. 
