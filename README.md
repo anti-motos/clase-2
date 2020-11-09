@@ -3,10 +3,18 @@
 
 <img src="https://www.fundaciondesiertoatacama.cl/wp-content/uploads/2016/10/12-chug-chug-este-1.jpg" class="img-fluid" />
 
-## El impacto del Dákar en el patrimonio material del desierto de Atacama.
+## ESTRUCTURA
 
-### Contexto
-#### Que és y su historia
+1. Contexto: Qué es y su historia
+2. Impacto: Beneficios y desventajas 
+3. El caso de Chile: impacto en el país
+4. El caso de Perú: ejemplo de conservación patrimonial
+5. Conclusiones
+
+### El impacto del Dákar en el patrimonio material del desierto de Atacama.
+
+#### Contexto
+##### Que és y su historia
 El Dakar es la carrera rally raid (de campo, sin ruta) más grande del mundo, caracterizada por su condición de aventura extrema y la necesidad de habilidades de orientación y navegación. Dura aproximadamente entre 10 a 15 días y se desarrolla entre diciembre y enero de cada año y participan alrededor de 500 personas de más de 60 nacionalidades, que compiten en diferentes categorías según sus vehículos; motos, autos, quad y camiones.
 
 *infografía 1: sobre los concursantes, su nacionalidad y tipo de vehículo.*
@@ -50,8 +58,8 @@ El rally Dakar es una de las carreras más populares y vistas, siendo transmitid
 
 <img src="https://elotroladodelascarreras.files.wordpress.com/2017/01/dakar_argentina_-_chile_2011-e1545754498406.jpg" class="img-fluid" />
 
-### El caso de Chile
-#### El impacto del Dakar nacionalmente
+#### El caso de Chile
+##### El impacto del Dakar nacionalmente
 
 En Chile, las rutas han afectado zonas donde se encuentra patrimonio natural y cultural. 
 - Qué se entiende por patrimonio (definición)
@@ -78,8 +86,8 @@ Consecuencias "reales":
 - las huellas se mantienen por tiempo indefinido debido a las características áridas del desierto.
 - se destruye la flora del desierto, al impedir su crecimiento por el impacto de los neumaticos. Esto pone en peligro el surgimiento del desierto florido cada año, ya que destruyen los retoños de las plantas. En específico, la planta Bromeliácea Tillandsia Landbecki, se encuentra en peligro por las rutas que pasan por Arica y el Río Loa. Ésta es una especie endémica de esta zona desértica.
 
-### El caso de Perú
-#### Ejemplo de cómo hacerlo bien
+#### El caso de Perú
+##### Ejemplo de cómo hacerlo bien
 
 *Infografía 9: Mostrar las rutas con un mapa que tambien incorpora las zonas de interés patrimonial*
       <img src="img/info9.jpg">
@@ -88,8 +96,8 @@ Consecuencias "reales":
 
 En perú tomaron las precauciones necesarias para salvaguardar el patrimonio cultural y natural de las zonas por donde pasaban las rutas, lo que permitió un desarrollo que no afectó el patrimonio nacional, mostrar un mapa con las rutas y los puntos de interés patrimonial* —
 
-### Conclusiones
-#### La protección del patrimonio en la constitución
+#### Conclusiones
+##### La protección del patrimonio en la constitución
 
 Creemos que es importante usar el ejemplo del dakar y demostrar cómo los intereses económicos están mas protegidos en la constitución que el patrimonio cultural y natural; para la nueva constitución es necesario incorporar el cuidado de este patrimonio
  
