@@ -12,7 +12,7 @@
 5. Conclusiones
 
 ## INFOGRAFÍA MAQUETA
-   <img src="img/maqueta.jpg">
+   <img src="img/maqueta.png">
    
 ### Infografías
 
